@@ -1,4 +1,4 @@
-# Projeto_MachineLearning 
+# Projeto_Machine_Learning 
 
 Tarefa de Aprendizado: Classificação
 
